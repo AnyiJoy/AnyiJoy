@@ -14,3 +14,6 @@ I am an aspiring Software Engineer, Content Creator  I'm passionate about Techno
 - 📫 You can [view my resume](#) and contact me by emailing anyijoy097@gmail.com
 
 ---
+
+
+| <img align="center" src=https://github.com/AnyiJoy/AnyiJoy/blob/main/README.md#hello-there-welcome-
