@@ -16,4 +16,4 @@ I am an aspiring Software Engineer, Content Creator  I'm passionate about Techno
 ---
 
 
-| <img align="center" src=https://github.com/AnyiJoy/AnyiJoy/blob/main/README.md#hello-there-welcome-
+|"https://github-readme-stats.vercel.app/api?username=AnyiJoy&show_icons=true&include_all_commits=true&hide_border=true"
